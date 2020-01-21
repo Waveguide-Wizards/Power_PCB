@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=FLT Old Footprint=HDR1X3 New Footprint=HDR1X4
+Change Component Comment : Designator=FLT Old Comment=Header 3 New Comment=Header 4
+Added Pin To Net: NetName=NetU3_12 Pin=FLT-4
+Change Net Name : Old Net Name=NetU3_12 New Net Name=NetFLT_4
+Added Member To Class: ClassName=Capstone_Power Member=Component BedHeater 282836-2
+Added Room: Name=Capstone_Power

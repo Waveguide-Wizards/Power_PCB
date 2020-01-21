@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Capstone_Power.PcbDoc   1/21/2020  11:04:45 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Capstone_Power.TXT
+EIA File   : Capstone_Power.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T2      20mil (0.508mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      28mil (0.7mm)                                             Round             14        PTH        0.00inch (0.00mm)
+T4      28mil (0.711mm)                                           Round             14        PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T6      33mil (0.85mm)                                            Round             20        PTH        0.00inch (0.00mm)
+T7      35mil (0.9mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T8      43mil (1.1mm)                                             Round             6         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              99
+
+Total Processing Time (hh:mm:ss) : 00:00:01
